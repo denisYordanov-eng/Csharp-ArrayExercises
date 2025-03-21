@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Csharp-ArrayExercises\11-LastKNumbersSumsSequence\bin\Debug\11-LastKNumbersSumsSequence.exe.config
+C:\Users\Laptop\Desktop\C#\Csharp-ArrayExercises\11-LastKNumbersSumsSequence\bin\Debug\11-LastKNumbersSumsSequence.exe
+C:\Users\Laptop\Desktop\C#\Csharp-ArrayExercises\11-LastKNumbersSumsSequence\bin\Debug\11-LastKNumbersSumsSequence.pdb
+C:\Users\Laptop\Desktop\C#\Csharp-ArrayExercises\11-LastKNumbersSumsSequence\obj\Debug\11-LastKNumbersSumsSequence.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Csharp-ArrayExercises\11-LastKNumbersSumsSequence\obj\Debug\11-LastKNumbersSumsSequence.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Csharp-ArrayExercises\11-LastKNumbersSumsSequence\obj\Debug\11-LastKNumbersSumsSequence.exe
+C:\Users\Laptop\Desktop\C#\Csharp-ArrayExercises\11-LastKNumbersSumsSequence\obj\Debug\11-LastKNumbersSumsSequence.pdb
